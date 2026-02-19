@@ -23,8 +23,8 @@ The model is trained, tested, and validated to ensure reliable performance.
 4.NLP (TF-IDF)
 
 ▶️ How to Run
-git clone 
-cd your-repo-name
+git clone https://github.com/6756892524/Fake-News-Detection.git
+cd Fake.News-Detection
 pip install -r requirements.txt
 python main.py
 
